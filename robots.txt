@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ogrotoch.github.io/sitemap
+Sitemap: https://ogrotoch.github.io/app/sitemap
+Sitemap: https://ogrotoch.github.io/assets/sitemap
+Sitemap: https://ogrotoch.github.io/css/sitemap
+Sitemap: https://ogrotoch.github.io/includes/sitemap
+Sitemap: https://ogrotoch.github.io/item/sitemap
+Sitemap: https://ogrotoch.github.io/src/sitemap
